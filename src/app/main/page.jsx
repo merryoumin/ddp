@@ -17,7 +17,6 @@ export default function Main() {
         Popular
       </div>
       <div className="w-[280px] h-[381.82px] left-[55px] top-[117px] absolute bg-stone-300 rounded" />
-
       <div className="w-[342px] left-[26px] top-[603px] absolute justify-start items-start gap-[190px] inline-flex">
         <div className="text-black text-xl font-semibold leading-snug">
           Catagories
